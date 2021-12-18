@@ -85,5 +85,4 @@ public class ExpensesServiceImpl implements ExpensesService {
         return expensesRepository.getStatisticsByDate(date);
     }
 
-
 }
